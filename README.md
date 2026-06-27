@@ -68,7 +68,7 @@ AthenaLibrary is a premium, responsive Library Management System built with a de
 
 ## 📊 Database Schema (SQLite)
 
-```mermaid
+```
 erDiagram
     users {
         int id PK
