@@ -1,0 +1,7 @@
+ERROR: No module named 'flask'
+Traceback (most recent call last):
+  File "C:\Users\sachi\OneDrive\Desktop\Library management system\backend\test_script.py", line 5, in <module>
+    from app import create_app, db
+  File "C:\Users\sachi\OneDrive\Desktop\Library management system\backend\app\__init__.py", line 2, in <module>
+    from flask import Flask
+ModuleNotFoundError: No module named 'flask'
